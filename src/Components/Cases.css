@@ -1,0 +1,11 @@
+.corono_update{
+	margin: 0 0 30px 0;
+	/*background-color: #fab1a0;*/
+}
+
+.corono_update h3{ color: #ff7675; }
+
+.corono_update h1{
+	font-size: 2rem;
+	text-align: center;
+}

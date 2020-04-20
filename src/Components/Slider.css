@@ -1,0 +1,10 @@
+
+*:focus {
+    outline: none;
+}
+div {
+    text-align: center;
+}
+img {
+    margin: auto;
+}
