@@ -4,3 +4,6 @@
 	0% { transform: rotate(0); }
 	100% { transform: rotate(360deg); }
  }
+h1 {
+	text-align: center;
+}

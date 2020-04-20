@@ -2,9 +2,4 @@
 *:focus {
     outline: none;
 }
-div {
-    text-align: center;
-}
-img {
-    margin: auto;
-}
+.slick-slide.slick-center img { margin-left: auto; margin-right: auto; }

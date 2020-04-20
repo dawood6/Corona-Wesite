@@ -16,15 +16,15 @@ export default class Cases extends React.Component {
   <div className=" d-flex justify-content-around align-items-center">
     <div>
       <h1 className="count"> <Confirmed /> </h1>
-      <p>Confirmed COVID-19 cases*</p>
+      <p>Confirmed COVID-19 Cases</p>
     </div>
     <div>
       <h1 className="count"> <Cured /> </h1>
-      <p>Curedcases</p>
+      <p>Cured Cases</p>
     </div>
     <div>
       <h1 className="count"> <Death /></h1>
-      <p>Death cases</p>
+      <p>Death Cases</p>
     </div>
   </div>
 </section>
