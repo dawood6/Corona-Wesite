@@ -10,9 +10,9 @@ export default class App extends Component {
       <div>
         <Nav />
         <Corona />
+        <Cases />
         <SimpleSlider />
         <br /><br /><br /><br />
-        <Cases />
         <About />
       </div>
     );
