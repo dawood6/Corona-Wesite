@@ -6,6 +6,7 @@ import Cases from './Components/Cases'
 import About from './Components/About'
 import Symptoms from './Components/Symptoms'
 import Prevention from './Components/Prevention'
+import Contact from './Components/Contact'
 export default class App extends Component {
   render() {
     return (
@@ -18,6 +19,7 @@ export default class App extends Component {
         <About />
         <Symptoms />
         <Prevention />
+        <Contact />
       </div>
     );
   }
